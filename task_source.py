@@ -11,9 +11,10 @@ has been created and approved).
 """
 import json
 import os
-from datetime import datetime, time as dtime
+from datetime import datetime, date, time as dtime
 
 from matching import find_matching_tasks
+from monday_api import gql
 
 
 def _to_time(s):
@@ -24,6 +25,8 @@ def _to_time(s):
 class LocalTemplateSource:
     """Mock source for pre-production testing. Persists completions locally
     so state survives app restarts, without touching Monday at all."""
+
+    uses_real_dates = False
 
     def __init__(self, template_path="template.json", completions_path="completions.json"):
         self.template_path = template_path
@@ -78,28 +81,99 @@ class LocalTemplateSource:
 
 
 class MondaySource:
-    """Real Monday.com-backed source. Only usable once BOARD_ID is configured."""
+    """Real Monday.com-backed source - the actual production path. Monday is the
+    source of truth: items can be edited/added directly on the board and this
+    class will pick up the change on the next scan (no caching)."""
+
+    uses_real_dates = True
 
     def __init__(self, board_id, column_ids):
         self.board_id = board_id
-        self.column_ids = column_ids  # dict: worker, area, date, start_time, status, completed_by, completed_at
+        self.cols = column_ids  # dict: Date, Worker, Area, Start Time, Status, Completed By, Completed At
 
-    def find_active_tasks(self, worker, area, day, now_time):
-        raise NotImplementedError(
-            "MondaySource requires the production board's exact column IDs and "
-            "item layout, which don't exist yet - board hasn't been created/approved."
-        )
+    def _fetch_all_items(self):
+        col_ids_str = ", ".join(f'"{c}"' for c in self.cols.values())
+        q = f'''
+        {{
+          boards(ids: {self.board_id}) {{
+            items_page(limit: 100) {{
+              items {{
+                id
+                name
+                column_values(ids: [{col_ids_str}]) {{ id text }}
+              }}
+            }}
+          }}
+        }}
+        '''
+        data = gql(q)
+        items = data["boards"][0]["items_page"]["items"]
+        out = []
+        for it in items:
+            vals = {cv["id"]: cv["text"] for cv in it["column_values"]}
+            out.append({
+                "id": it["id"],
+                "task": it["name"],
+                "date": vals.get(self.cols["Date"], "") or "",
+                "worker": vals.get(self.cols["Worker"], "") or "",
+                "area": vals.get(self.cols["Area"], "") or "",
+                "start_time_raw": vals.get(self.cols["Start Time"], "") or "",
+                "status": vals.get(self.cols["Status"], "") or "",
+            })
+        return out
+
+    def distinct_workers(self):
+        items = self._fetch_all_items()
+        return sorted(set(i["worker"] for i in items if i["worker"]))
+
+    def distinct_areas(self):
+        items = self._fetch_all_items()
+        return sorted(set(i["area"] for i in items if i["area"]))
+
+    def find_active_tasks(self, worker, area, date_str, now_time):
+        """date_str: 'YYYY-MM-DD' (real date, since Monday is the source of truth
+        and items are dated, not day-of-week templates)."""
+        items = self._fetch_all_items()
+        worker_tasks = []
+        for i in items:
+            if i["worker"] != worker or i["date"] != date_str:
+                continue
+            if not i["start_time_raw"]:
+                continue
+            # Monday's hour column renders as "07:50 AM" - parse to a time object
+            t = datetime.strptime(i["start_time_raw"], "%I:%M %p").time()
+            worker_tasks.append({**i, "start_time": t})
+
+        matches = find_matching_tasks(worker_tasks, area, now_time)
+        out = []
+        for m in matches:
+            if m["status"] == "Done":
+                continue  # already completed, don't re-offer
+            out.append({**m, "start_time": m["start_time"].strftime("%H:%M"), "key": m["id"]})
+        return out
 
     def mark_done(self, task, worker):
-        raise NotImplementedError("Same as above - not wired until the real board exists.")
+        item_id = task["key"]
+        cv = {
+            self.cols["Status"]: {"label": "Done"},
+            self.cols["Completed By"]: worker,
+            self.cols["Completed At"]: datetime.now().isoformat(timespec="seconds"),
+        }
+        cv_json = json.dumps(json.dumps(cv))
+        q = f'''
+        mutation {{
+          change_multiple_column_values(board_id: {self.board_id}, item_id: {item_id}, column_values: {cv_json}) {{ id }}
+        }}
+        '''
+        gql(q)
+        return True
 
 
 def get_source():
     board_id = os.environ.get("PRODUCTION_BOARD_ID", "").strip()
     if board_id:
-        raise RuntimeError(
-            "PRODUCTION_BOARD_ID is set, but MondaySource isn't implemented yet "
-            "(needs the approved board's real column IDs). Unset it to keep using "
-            "LocalTemplateSource for testing."
-        )
+        columns = json.loads(os.environ.get("PRODUCTION_BOARD_COLUMNS", "{}"))
+        if not columns:
+            raise RuntimeError("PRODUCTION_BOARD_ID is set but PRODUCTION_BOARD_COLUMNS is missing.")
+        return MondaySource(board_id, columns)
     return LocalTemplateSource()

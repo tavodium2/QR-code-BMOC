@@ -36,8 +36,10 @@ def scan(area_slug):
     if not area:
         return render_template("error.html", message=f"Unknown area code: {area_slug}"), 404
     workers = source.distinct_workers()
+    default_period = datetime.now().strftime("%Y-%m-%d") if source.uses_real_dates else today_name()
     return render_template("scan.html", area=area, area_slug=area_slug, workers=workers,
-                            simulated_day=request.args.get("day", today_name()))
+                            uses_real_dates=source.uses_real_dates,
+                            simulated_day=request.args.get("day", default_period))
 
 
 @app.route("/scan/<area_slug>/complete", methods=["POST"])

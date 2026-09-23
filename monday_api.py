@@ -1,4 +1,5 @@
 import json
+import os
 import time
 import urllib.request
 import urllib.error
@@ -7,11 +8,17 @@ API_URL = "https://api.monday.com/v2"
 
 
 def _load_token():
-    with open(".env") as f:
-        for line in f:
-            if line.startswith("MONDAY_API_TOKEN="):
-                return line.strip().split("=", 1)[1]
-    raise RuntimeError("MONDAY_API_TOKEN not found in .env")
+    # Prefer a real environment variable (e.g. set in Render's dashboard).
+    env_token = os.environ.get("MONDAY_API_TOKEN")
+    if env_token:
+        return env_token
+    # Fall back to a local .env file for local development.
+    if os.path.exists(".env"):
+        with open(".env") as f:
+            for line in f:
+                if line.startswith("MONDAY_API_TOKEN="):
+                    return line.strip().split("=", 1)[1]
+    raise RuntimeError("MONDAY_API_TOKEN not found in environment or .env")
 
 
 TOKEN = _load_token()
