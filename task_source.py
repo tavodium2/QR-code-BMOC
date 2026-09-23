@@ -91,23 +91,36 @@ class MondaySource:
         self.board_id = board_id
         self.cols = column_ids  # dict: Date, Worker, Area, Start Time, Status, Completed By, Completed At
 
-    def _fetch_all_items(self):
+    def _fetch_items(self, query_params=None):
+        """Paginates through ALL matching items (a board can have hundreds/thousands
+        of unrelated items - items_page's default limit of ~25-100 silently drops
+        anything beyond that page without cursor-following)."""
         col_ids_str = ", ".join(f'"{c}"' for c in self.cols.values())
-        q = f'''
-        {{
-          boards(ids: {self.board_id}) {{
-            items_page(limit: 100) {{
-              items {{
-                id
-                name
-                column_values(ids: [{col_ids_str}]) {{ id text }}
+        qp = f", query_params: {query_params}" if query_params else ""
+        items = []
+        cursor = None
+        while True:
+            cursor_arg = f', cursor: "{cursor}"' if cursor else ""
+            q = f'''
+            {{
+              boards(ids: {self.board_id}) {{
+                items_page(limit: 100{cursor_arg}{qp if not cursor else ""}) {{
+                  cursor
+                  items {{
+                    id
+                    name
+                    column_values(ids: [{col_ids_str}]) {{ id text }}
+                  }}
+                }}
               }}
             }}
-          }}
-        }}
-        '''
-        data = gql(q)
-        items = data["boards"][0]["items_page"]["items"]
+            '''
+            data = gql(q)
+            page = data["boards"][0]["items_page"]
+            items.extend(page["items"])
+            cursor = page["cursor"]
+            if not cursor:
+                break
         out = []
         for it in items:
             vals = {cv["id"]: cv["text"] for cv in it["column_values"]}
@@ -123,17 +136,21 @@ class MondaySource:
         return out
 
     def distinct_workers(self):
-        items = self._fetch_all_items()
+        items = self._fetch_items()
         return sorted(set(i["worker"] for i in items if i["worker"]))
 
     def distinct_areas(self):
-        items = self._fetch_all_items()
+        items = self._fetch_items()
         return sorted(set(i["area"] for i in items if i["area"]))
 
     def find_active_tasks(self, worker, area, date_str, now_time):
         """date_str: 'YYYY-MM-DD' (real date, since Monday is the source of truth
         and items are dated, not day-of-week templates)."""
-        items = self._fetch_all_items()
+        # Filter server-side by Area so we don't pull every item on a large board
+        # (this board has 900+ unrelated items) just to check a handful of matches.
+        area_esc = area.replace("\\", "\\\\").replace('"', '\\"')
+        query_params = f'{{rules: [{{column_id: "{self.cols["Area"]}", compare_value: ["{area_esc}"], operator: any_of}}]}}'
+        items = self._fetch_items(query_params=query_params)
         worker_tasks = []
         for i in items:
             if i["worker"] != worker or i["date"] != date_str:
