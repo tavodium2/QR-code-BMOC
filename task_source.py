@@ -12,9 +12,18 @@ has been created and approved).
 import json
 import os
 from datetime import datetime, date, time as dtime
+from zoneinfo import ZoneInfo
 
 from matching import find_matching_tasks
 from monday_api import gql
+
+# The physical site's timezone (Kazakhstan, UTC+5) - see app.py's SITE_TZ for why
+# this must not be the host machine's own local time.
+SITE_TZ = ZoneInfo("Asia/Almaty")
+
+
+def _site_now():
+    return datetime.now(SITE_TZ)
 
 
 def _to_time(s):
@@ -74,7 +83,7 @@ class LocalTemplateSource:
         key = task["key"]
         self.completions[key] = {
             "completed_by": worker,
-            "completed_at": datetime.now().isoformat(timespec="seconds"),
+            "completed_at": _site_now().isoformat(timespec="seconds"),
         }
         self._save()
         return True
@@ -174,7 +183,7 @@ class MondaySource:
         cv = {
             self.cols["Status"]: {"label": "Done"},
             self.cols["Completed By"]: worker,
-            self.cols["Completed At"]: datetime.now().isoformat(timespec="seconds"),
+            self.cols["Completed At"]: _site_now().isoformat(timespec="seconds"),
         }
         cv_json = json.dumps(json.dumps(cv))
         q = f'''

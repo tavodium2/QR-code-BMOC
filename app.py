@@ -1,5 +1,6 @@
 import re
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 from flask import Flask, render_template, request, redirect, url_for
 
@@ -10,10 +11,20 @@ source = get_source()
 
 DAYS = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
+# The physical site's timezone (Kazakhstan, UTC+5) - NOT the server's own timezone.
+# A bare datetime.now() on a cloud host (e.g. Render) is UTC and silently produces
+# wrong matches, since "now" has to mean "now at the cleaning site", not "now on
+# whatever server happens to be running this."
+SITE_TZ = ZoneInfo("Asia/Almaty")
+
+
+def site_now():
+    return datetime.now(SITE_TZ)
+
 
 def today_name():
     # Python's date.weekday(): Monday=0..Sunday=6; DAYS starts at Sunday.
-    wd = datetime.now().weekday()
+    wd = site_now().weekday()
     return DAYS[0] if wd == 6 else DAYS[wd + 1]
 
 
@@ -36,7 +47,7 @@ def scan(area_slug):
     if not area:
         return render_template("error.html", message=f"Unknown area code: {area_slug}"), 404
     workers = source.distinct_workers()
-    default_period = datetime.now().strftime("%Y-%m-%d") if source.uses_real_dates else today_name()
+    default_period = site_now().strftime("%Y-%m-%d") if source.uses_real_dates else today_name()
     return render_template("scan.html", area=area, area_slug=area_slug, workers=workers,
                             uses_real_dates=source.uses_real_dates,
                             simulated_day=request.args.get("day", default_period))
@@ -53,9 +64,9 @@ def complete(area_slug):
     now_str = request.form.get("now_time", "")
     if now_str:
         hh, mm = map(int, now_str.split(":"))
-        now_time = datetime.now().replace(hour=hh, minute=mm).time()
+        now_time = site_now().replace(hour=hh, minute=mm).time()
     else:
-        now_time = datetime.now().time()
+        now_time = site_now().time()
 
     matches = source.find_active_tasks(worker, area, day, now_time)
 
@@ -83,7 +94,7 @@ def complete_specific(area_slug):
     day = request.form.get("day")
     task_key = request.form.get("task_key")
 
-    matches = source.find_active_tasks(worker, area, day, datetime.now().time())
+    matches = source.find_active_tasks(worker, area, day, site_now().time())
     task = next((m for m in matches if m["key"] == task_key), None)
     if not task:
         return render_template("error.html", message="That task is no longer available (maybe already completed)."), 400
