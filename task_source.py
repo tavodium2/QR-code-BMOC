@@ -172,8 +172,27 @@ class MondaySource:
 def get_source():
     board_id = os.environ.get("PRODUCTION_BOARD_ID", "").strip()
     if board_id:
-        columns = json.loads(os.environ.get("PRODUCTION_BOARD_COLUMNS", "{}"))
-        if not columns:
-            raise RuntimeError("PRODUCTION_BOARD_ID is set but PRODUCTION_BOARD_COLUMNS is missing.")
-        return MondaySource(board_id, columns)
+        # Prefer simple individual env vars (robust against dashboard UIs that
+        # mangle pasted JSON via bracket/quote auto-pairing). Falls back to one
+        # JSON blob (PRODUCTION_BOARD_COLUMNS) for convenience in local dev.
+        simple = {
+            "Date": os.environ.get("PRODUCTION_COL_DATE", ""),
+            "Worker": os.environ.get("PRODUCTION_COL_WORKER", ""),
+            "Area": os.environ.get("PRODUCTION_COL_AREA", ""),
+            "Start Time": os.environ.get("PRODUCTION_COL_START_TIME", ""),
+            "Status": os.environ.get("PRODUCTION_COL_STATUS", ""),
+            "Completed By": os.environ.get("PRODUCTION_COL_COMPLETED_BY", ""),
+            "Completed At": os.environ.get("PRODUCTION_COL_COMPLETED_AT", ""),
+        }
+        if all(simple.values()):
+            return MondaySource(board_id, simple)
+
+        raw = os.environ.get("PRODUCTION_BOARD_COLUMNS", "")
+        if raw:
+            return MondaySource(board_id, json.loads(raw))
+
+        raise RuntimeError(
+            "PRODUCTION_BOARD_ID is set but no column mapping was found "
+            "(set the individual PRODUCTION_COL_* vars, or PRODUCTION_BOARD_COLUMNS as JSON)."
+        )
     return LocalTemplateSource()
