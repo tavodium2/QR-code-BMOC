@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="status-none">Error</h1>
+<p class="sub">{{ message }}</p>
+<p class="footnote"><a href="{{ url_for('index') }}">← Back to area list (dev mode)</a></p>
+{% endblock %}

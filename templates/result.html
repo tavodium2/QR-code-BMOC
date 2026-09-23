@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+{% if status == "done" %}
+  <h1 class="status-ok">✓ Marked Done</h1>
+  <p class="sub">{{ area }} — {{ task.task }}</p>
+  <p>Completed by <strong>{{ worker }}</strong> at {{ task.start_time }}.</p>
+
+{% elif status == "none" %}
+  <h1 class="status-none">No matching task</h1>
+  <p class="sub">{{ message }}</p>
+  <p>Area: <strong>{{ area }}</strong> &middot; Worker: <strong>{{ worker }}</strong></p>
+  <p>Nothing was marked as completed.</p>
+
+{% elif status == "multiple" %}
+  <h1 class="status-multi">Multiple tasks match</h1>
+  <p class="sub">{{ message }}</p>
+  {% for m in matches %}
+    <form method="post" action="{{ url_for('complete_specific', area_slug=area_slug) }}" style="margin-bottom:8px;">
+      <input type="hidden" name="worker" value="{{ worker }}">
+      <input type="hidden" name="day" value="{{ day }}">
+      <input type="hidden" name="task_key" value="{{ m.key }}">
+      <button type="submit" class="worker-btn">{{ m.start_time }} — {{ m.task }}</button>
+    </form>
+  {% endfor %}
+{% endif %}
+
+<p class="footnote"><a href="{{ url_for('index') }}">← Back to area list (dev mode)</a></p>
+{% endblock %}

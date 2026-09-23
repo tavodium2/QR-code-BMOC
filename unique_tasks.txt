@@ -1,0 +1,181 @@
+unique task texts: 180
+33 | Lunch break
+25 | Clean 20 Upstairs
+24 | Empty Garbages
+22 | Restock all paper towels and tissues
+22 | Make Pasta
+22 | Fill up Soup
+20 | Clean, Add towels
+16 | Clean outside Parking lot
+16 | Clean bathrooms 18 Up
+14 | Clean outside Walkways
+14 | Clean tent 2
+14 | Check Mikva
+14 | Clean tent 1
+14 | Clean 18 main downstairs
+14 | Clean 18 main upstairs
+14 | Walk around check whole property
+13 | Service coffee stations
+13 | Restock Water bottles
+12 | Service kitchen
+12 | Clean and restock 3 Coffee stations
+12 | Clean 18 Main
+11 | Clean bathrooms 20 Up
+11 | Service coffee station
+11 | Fill Water Bottles 20
+11 | Clean bathrooms 18 Down
+11 | Breakfast
+10 | Clean outside 18/Tent1
+10 | Clean 20 Bathrooms
+10 | Put away Deliveries
+10 | Spray and Clean Shelves
+9 | Fill up water bottles 18
+9 | Clean tent 4
+8 | Clean tent 3
+8 | Clean Tent 3
+7 | Clean 20 downstairs
+7 | Clean Tent 4
+7 | Report with issues/orders
+7 | Food Prep
+7 | Report with issues/ordering
+6 | Fill towels
+6 | Clean bathrooms 20 Down
+6 | Clean bathrooms 20
+6 | Clean bathrooms 18
+6 | Deep clean mikvah
+6 | Wash Spray surfaces
+6 | Clean kitchen,Wash all pots and utensils
+6 | Clean Mikva
+6 | Check/Clean 4 main Bathrooms
+6 | Clean Tent 2
+6 | Clean Tent 1
+5 | Check Mikva, Chlorine test
+5 | Cleaning
+5 | Check and Clean tent 3
+5 | Tent 4/ Tent 5
+5 | Clean outside 20/Tent 2
+5 | Clean outside Tent 3/4
+5 | Wipe down tables in tents
+5 | Vaccum Tent 4
+5 | Vaccum Tent 3
+5 | Restock coffee stations
+5 | Vaccum Tent 2
+5 | Fill up water bottles 20
+5 | Vaccum Tent 1
+5 | Clean 6 Bathrooms
+5 | Clean Office
+5 | Clean out fridges.
+5 | Clean 18 Upstairs
+5 | Reclean Kitchen
+5 | Clean Parking lot and walkways
+5 | Clean 4 Main Bathrooms
+5 | Set up Soup
+5 | Make Farina
+5 | Brew Coffee/Restock Cookies
+5 | Clean 18 upstairs Offices
+5 | Check Mikva, Add towels
+5 | Fill up water bottles 18/20
+5 | Fill up Farina
+5 | Take Inventory
+5 | Update Lists
+5 | Update Purchasing Requests
+5 | Clean up Advertisement boards
+4 | Clean bathrooms 20 Dwn
+4 | Clean 20 Downstairs
+4 | Clean Tables
+4 | Clean Tents 3,4,5
+4 | Check/Restock Bathrooms
+4 | Clean kitchen
+4 | Deliver Mail/Packages
+4 | Check on soups
+4 | Have someone put up new soups if needed
+4 | Fill Water Bottles
+4 | Spray and Clean Windows
+4 | 18 Main Sweeping
+4 | Tablecloths in 18 Main
+3 | Restock Tissues Papertowels
+3 | Good night
+3 | Clean bathrooms of 20
+2 | Clean bathrooms 18 Upstairs
+2 | 18 Main
+2 | Clean outside All areas
+2 | Mikva Chlorine test/Cleaning
+2 | Clean Showers and wipe surfaces
+2 | Clean Tent 5
+2 | Clean/Restock Mikva
+2 | Prep Cholent
+2 | Fill Water Bottles 20-18
+2 | 18 Up Spray and Clean Shelves
+2 | Clean tent 5
+2 | Clean parking lot
+2 | Restock
+2 | 18 Down Spray and Clean Shelves
+2 | Sweep and Mop 20 Upstairs
+2 | 20 Upstairs Tablecloths
+2 | Tablecloths in 18 Upstairs
+2 | Vacuum 18 Upstairs
+2 | Vacuum 18 Offices
+2 | Tables
+2 | Set Tent 2 For Shabbos
+2 | Prepare Kiddush 20 Upstairs
+2 | Set up Kiddush 1 in 18 main
+2 | Kitchen Food Prep
+2 | Check the mikvah door
+2 | Clean tent 2 from kiddush 3
+2 | Reset Tables
+2 | Spray Tables
+2 | Vaccum
+2 | Put away food and drinks
+1 | Start with kitchen
+1 | 18 Main Downstairs
+1 | 18 Main Upstairs
+1 | Restock coffee station
+1 | Clean R' Corens Room
+1 | Clean Conference Room
+1 | Check and Clean Tent 1
+1 | Tent 2
+1 | Check and Clean Tent 3-4-5
+1 | Check and Clean Tent 1-2
+1 | Add to the soup pots
+1 | Mikva Bathroom clean restock Towels
+1 | Walk and Clean parking lot
+1 | Mikva Bathroom clean restock
+1 | Clean bathrooms 18 Up/down
+1 | Clean bathrooms 20 Up/down
+1 | Restock Paper towels
+1 | Clean Kitchen
+1 | Put away pots/utensils
+1 | Clean Fridges
+1 | Put away Deliveries/Kugel in warmer
+1 | Clean Tents 4,5
+1 | Clean 18/20
+1 | Clean bathrooms 18/20
+1 | Fill Soaps
+1 | Check on all locations that all is in order
+1 | Serve kiddush 1
+1 | Clean tent 2 from kiddush 1
+1 | Clean bathrooms of  18
+1 | Prepare Kiddush
+1 | Clean parking across the street
+1 | Serve Kiddush 2
+1 | Clean kiddush 2 in 18
+1 | Setup Kiddush 3
+1 | Serve kiddush 3 Tent 2
+1 | Serve kiddush  3
+1 | Start letting water out in mikvah, do backwash
+1 | Serve Kiddush 4 18 Main
+1 | Deep Clean mikvah
+1 | Set up shalashidis
+1 | Supper Break
+1 | Service Coffee
+1 | Clean bathrooms of 18
+1 | Clean up shalashides
+1 | Clean up 18 main and Upstairs
+1 | Take off tablecloths in tent 1
+1 | Clean Rabbi Coren's office
+1 | Clean Conferance room
+1 | Close water in mikvah
+1 | Clean and set up tent 1 for Avos Ubanim
+1 | Leave unless the Avos Ubanim needs cleaning.
+1 | Clean 4 main Bathrooms
+1 | Clean 18 Main and Upstairs

@@ -1,0 +1,17 @@
+{
+  "board_id": "18432256484",
+  "sub_board_id": "18432256517",
+  "staff_items": {
+    "Darwin": "13106476968",
+    "Franz": "13106450599",
+    "Geovany": "13106460995",
+    "Junior": "13106469661",
+    "Markenson": "13106447835",
+    "Sidne": "13106469875"
+  },
+  "sub_cols": {
+    "Day": "color_mm7emkwr",
+    "Time": "hour_mm7enmsp",
+    "Status": "color_mm7e4k93"
+  }
+}

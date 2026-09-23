@@ -1,0 +1,19 @@
+{
+  "board_id": "18432250710",
+  "columns": {
+    "Time": "hour_mm7ej5",
+    "Staff": "text_mm7ekksd",
+    "Status": "color_mm7etws9",
+    "Repeats This Day": "boolean_mm7en9gt",
+    "Notify on Complete": "multiple_person_mm7ew2h5"
+  },
+  "groups": {
+    "Sunday": "topics",
+    "Monday": "group_mm7ezf56",
+    "Tuesday": "group_mm7epct5",
+    "Wednesday": "group_mm7ev44h",
+    "Thursday": "group_mm7eh72d",
+    "Friday": "group_mm7epax0",
+    "Saturday": "group_mm7ed997"
+  }
+}

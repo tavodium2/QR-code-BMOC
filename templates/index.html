@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Cleaning Check-In (dev mode)</h1>
+<p class="sub">This page stands in for printed QR codes during testing. In production, each link below becomes a physical QR code posted at that area.</p>
+{% for slug, area in areas %}
+  <a class="worker-btn" href="{{ url_for('scan', area_slug=slug) }}" style="text-decoration:none;color:inherit;display:block;">{{ area }}</a>
+{% endfor %}
+<p class="footnote">{{ areas|length }} confidently-resolved areas shown. Unresolved/unclassified tasks aren't scannable yet, per the pending open questions.</p>
+{% endblock %}

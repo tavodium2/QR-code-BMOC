@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ area }}</h1>
+<p class="sub">Select your name to mark this area's current task done.</p>
+
+<form method="post" action="{{ url_for('complete', area_slug=area_slug) }}" id="scanForm">
+  <div class="field">
+    <label>Day (testing only - production uses today's real date)</label>
+    <select name="day">
+      {% for d in ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"] %}
+        <option value="{{ d }}" {% if d == simulated_day %}selected{% endif %}>{{ d }}</option>
+      {% endfor %}
+    </select>
+  </div>
+  <div class="field">
+    <label>Time (testing only - production uses the real current time)</label>
+    <input type="time" name="now_time">
+  </div>
+  <div class="field">
+    <label>Your name</label>
+  </div>
+  {% for w in workers %}
+    <button type="submit" name="worker" value="{{ w }}" class="worker-btn">{{ w }}</button>
+  {% endfor %}
+</form>
+<p class="footnote">Worker list shown exactly as in the source schedule (including any spelling variants pending client confirmation).</p>
+{% endblock %}

@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+flask.log
+completions.json
+qr_codes/

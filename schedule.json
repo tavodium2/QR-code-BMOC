@@ -1,0 +1,6435 @@
+[
+  {
+    "day": "Sunday",
+    "time": "07:50",
+    "staff": "Sidne",
+    "task": "Check Mikva, Chlorine test",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "08:00",
+    "staff": "Markenson",
+    "task": "Start with kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "08:00",
+    "staff": "Sidne",
+    "task": "Cleaning",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "08:00",
+    "staff": "Frantz",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "08:15",
+    "staff": "Sidne",
+    "task": "Fill towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "08:15",
+    "staff": "Frantz",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "08:30",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Dwn",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "08:30",
+    "staff": "Frantz",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "08:45",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "08:45",
+    "staff": "Frantz",
+    "task": "18 Main Downstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "09:00",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:00",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:00",
+    "staff": "Frantz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:00",
+    "staff": "Geovany",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:15",
+    "staff": "Sidne",
+    "task": "Clean 20 Downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:15",
+    "staff": "Frantz",
+    "task": "Clean bathrooms 18 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:15",
+    "staff": "Geovany",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:30",
+    "staff": "Markenson",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:30",
+    "staff": "Sidne",
+    "task": "Check and Clean tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "09:30",
+    "staff": "Frantz",
+    "task": "Restock Tissues Papertowels",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:30",
+    "staff": "Geovany",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:45",
+    "staff": "Markenson",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "09:45",
+    "staff": "Sidne",
+    "task": "Tent 4/ Tent 5",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "09:45",
+    "staff": "Frantz",
+    "task": "18 Main Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "09:45",
+    "staff": "Geovany",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:00",
+    "staff": "Markenson",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:00",
+    "staff": "Sidne",
+    "task": "Check Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "10:00",
+    "staff": "Frantz",
+    "task": "Clean Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:00",
+    "staff": "Geovany",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:15",
+    "staff": "Markenson",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:15",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:15",
+    "staff": "Frantz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:15",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:30",
+    "staff": "Sidne",
+    "task": "Clean outside 20/Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "10:30",
+    "staff": "Frantz",
+    "task": "Restock coffee station",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "10:30",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Down",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "10:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "10:45",
+    "staff": "Sidne",
+    "task": "Clean outside Tent 3/4",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "10:45",
+    "staff": "Frantz",
+    "task": "Fill up water bottles 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "10:45",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:00",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:00",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:00",
+    "staff": "Frantz",
+    "task": "Clean R' Corens Room",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:00",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:15",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:15",
+    "staff": "Frantz",
+    "task": "Clean Conference Room",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:15",
+    "staff": "Geovany",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:30",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:30",
+    "staff": "Sidne",
+    "task": "Clean 20 downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:30",
+    "staff": "Frantz",
+    "task": "Check and Clean Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:30",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:45",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:45",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "11:45",
+    "staff": "Frantz",
+    "task": "Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "11:45",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:00",
+    "staff": "Markenson",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:00",
+    "staff": "Sidne",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:00",
+    "staff": "Frantz",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:00",
+    "staff": "Geovany",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:30",
+    "staff": "Sidne",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:30",
+    "staff": "Frantz",
+    "task": "18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:30",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:45",
+    "staff": "Markenson",
+    "task": "Wipe down tables in tents",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "12:45",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "12:45",
+    "staff": "Frantz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "13:00",
+    "staff": "Sidne",
+    "task": "Deep clean mikvah",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "13:00",
+    "staff": "Frantz",
+    "task": "Clean bathrooms 18 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "13:00",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 4",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "13:15",
+    "staff": "Sidne",
+    "task": "Wash Spray surfaces",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "13:15",
+    "staff": "Frantz",
+    "task": "Restock Tissues Papertowels",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "13:30",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "13:30",
+    "staff": "Frantz",
+    "task": "18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "13:45",
+    "staff": "Sidne",
+    "task": "Clean Tents 3,4,5",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "13:45",
+    "staff": "Frantz",
+    "task": "Clean Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "13:45",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "13:50",
+    "staff": "Frantz",
+    "task": "Fill up water bottles 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "14:00",
+    "staff": "Markenson",
+    "task": "Restock coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "14:00",
+    "staff": "Frantz",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "14:15",
+    "staff": "Frantz",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "14:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "14:30",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "14:30",
+    "staff": "Frantz",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "14:45",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "14:45",
+    "staff": "Frantz",
+    "task": "Restock Tissues Papertowels",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "15:00",
+    "staff": "Frantz",
+    "task": "Check and Clean Tent 3-4-5",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "15:00",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "15:15",
+    "staff": "Frantz",
+    "task": "Check and Clean Tent 1-2",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "15:30",
+    "staff": "Frantz",
+    "task": "Fill up water bottles 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "16:00",
+    "staff": "Geovany",
+    "task": "Clean outside All areas",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "16:15",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "16:30",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "17:00",
+    "staff": "Darwin",
+    "task": "Clean 6 Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "17:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "18:00",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "18:15",
+    "staff": "Darwin",
+    "task": "Clean Office",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "18:30",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "18:45",
+    "staff": "Darwin",
+    "task": "Clean out fridges.",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "19:00",
+    "staff": "Darwin",
+    "task": "Add to the soup pots",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "19:15",
+    "staff": "Darwin",
+    "task": "Clean kitchen,Wash all pots and utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "20:00",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "20:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "20:30",
+    "staff": "Darwin",
+    "task": "Clean 18 Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "21:00",
+    "staff": "Darwin",
+    "task": "Clean Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "21:30",
+    "staff": "Darwin",
+    "task": "Check/Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "22:00",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "22:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "22:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "23:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "23:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "00:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "00:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "00:45",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "01:00",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "01:30",
+    "staff": "Darwin",
+    "task": "Reclean Kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "01:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "02:00",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Sunday",
+    "time": "02:15",
+    "staff": "Darwin",
+    "task": "Clean Parking lot and walkways",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "02:30",
+    "staff": "Darwin",
+    "task": "Clean 4 Main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Sunday",
+    "time": "02:45",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "05:00",
+    "staff": "Junior",
+    "task": "Set up Soup",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "05:15",
+    "staff": "Junior",
+    "task": "Make Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "05:30",
+    "staff": "Junior",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "05:45",
+    "staff": "Junior",
+    "task": "Brew Coffee/Restock Cookies",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "06:00",
+    "staff": "Junior",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "06:15",
+    "staff": "Junior",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "06:30",
+    "staff": "Junior",
+    "task": "Clean 18 upstairs Offices",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "06:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "07:00",
+    "staff": "Junior",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "07:15",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "07:30",
+    "staff": "Junior",
+    "task": "Check Mikva, Add towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "07:45",
+    "staff": "Junior",
+    "task": "Fill up water bottles 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "07:50",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "07:50",
+    "staff": "Sidne",
+    "task": "Check Mikva, Chlorine test",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "08:00",
+    "staff": "Junior",
+    "task": "Fill up Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "08:00",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:00",
+    "staff": "Sidne",
+    "task": "Cleaning",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "08:15",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:15",
+    "staff": "Sidne",
+    "task": "Fill towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "08:30",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:30",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:30",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Dwn",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "08:45",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "08:45",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:00",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:00",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:00",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:15",
+    "staff": "Junior",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:15",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "09:15",
+    "staff": "Sidne",
+    "task": "Clean 20 Downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:30",
+    "staff": "Junior",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:30",
+    "staff": "Markenson",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:30",
+    "staff": "Sidne",
+    "task": "Check and Clean tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "09:45",
+    "staff": "Junior",
+    "task": "Check/Restock Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "09:45",
+    "staff": "Markenson",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "09:45",
+    "staff": "Sidne",
+    "task": "Tent 4/ Tent 5",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "10:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:00",
+    "staff": "Markenson",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:00",
+    "staff": "Sidne",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:00",
+    "staff": "Geovany",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:15",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "10:15",
+    "staff": "Markenson",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:15",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:15",
+    "staff": "Geovany",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:30",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:30",
+    "staff": "Markenson",
+    "task": "Clean kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:30",
+    "staff": "Sidne",
+    "task": "Clean outside 20/Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "10:30",
+    "staff": "Geovany",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:45",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "10:45",
+    "staff": "Sidne",
+    "task": "Clean outside Tent 3/4",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "10:45",
+    "staff": "Geovany",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:00",
+    "staff": "Junior",
+    "task": "Take Inventory",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "11:00",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:00",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:00",
+    "staff": "Geovany",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:15",
+    "staff": "Junior",
+    "task": "Update Lists",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "11:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:15",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "11:15",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:30",
+    "staff": "Junior",
+    "task": "Update Purchasing Requests",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "11:30",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:30",
+    "staff": "Sidne",
+    "task": "Clean 20 downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:30",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Down",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "11:45",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:45",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "11:45",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "11:45",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:00",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "12:00",
+    "staff": "Markenson",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:00",
+    "staff": "Sidne",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:00",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:30",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:30",
+    "staff": "Markenson",
+    "task": "Clean kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:30",
+    "staff": "Sidne",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:30",
+    "staff": "Geovany",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:45",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:45",
+    "staff": "Markenson",
+    "task": "Wipe down tables in tents",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "12:45",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "12:45",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:00",
+    "staff": "Sidne",
+    "task": "Deep clean mikvah",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "13:15",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:15",
+    "staff": "Sidne",
+    "task": "Wash Spray surfaces",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "13:15",
+    "staff": "Geovany",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:30",
+    "staff": "Junior",
+    "task": "Clean up Advertisement boards",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "13:30",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:30",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:45",
+    "staff": "Junior",
+    "task": "Deliver Mail/Packages",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "13:45",
+    "staff": "Sidne",
+    "task": "Clean Tents 3,4,5",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "13:45",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:50",
+    "staff": "Junior",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "13:50",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 4",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "14:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "14:00",
+    "staff": "Markenson",
+    "task": "Restock coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "14:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "14:30",
+    "staff": "Junior",
+    "task": "Check on soups",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "14:30",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "14:30",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "14:45",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "14:45",
+    "staff": "Markenson",
+    "task": "Clean kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "15:00",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "15:15",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "15:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "15:30",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "16:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "16:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "16:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "16:30",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "16:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "17:00",
+    "staff": "Darwin",
+    "task": "Clean 6 Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "17:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "18:00",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "18:15",
+    "staff": "Darwin",
+    "task": "Clean Office",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "18:30",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "18:45",
+    "staff": "Darwin",
+    "task": "Clean out fridges.",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "19:00",
+    "staff": "Darwin",
+    "task": "Have someone put up new soups if needed",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "19:15",
+    "staff": "Darwin",
+    "task": "Clean kitchen,Wash all pots and utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "20:00",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "20:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "20:30",
+    "staff": "Darwin",
+    "task": "Clean 18 Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "21:00",
+    "staff": "Darwin",
+    "task": "Clean Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "21:30",
+    "staff": "Darwin",
+    "task": "Check/Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "22:00",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "22:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "22:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "23:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "23:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "00:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "00:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "00:45",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "01:00",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "01:30",
+    "staff": "Darwin",
+    "task": "Reclean Kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "01:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "02:00",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Monday",
+    "time": "02:15",
+    "staff": "Darwin",
+    "task": "Clean Parking lot and walkways",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "02:30",
+    "staff": "Darwin",
+    "task": "Clean 4 Main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Monday",
+    "time": "02:45",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "05:00",
+    "staff": "Junior",
+    "task": "Set up Soup",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "05:15",
+    "staff": "Junior",
+    "task": "Make Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "05:30",
+    "staff": "Junior",
+    "task": "Service coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "05:45",
+    "staff": "Junior",
+    "task": "Brew Coffee/Restock Cookies",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "06:00",
+    "staff": "Junior",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "06:15",
+    "staff": "Junior",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "06:30",
+    "staff": "Junior",
+    "task": "Clean 18 upstairs Offices",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "06:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "07:00",
+    "staff": "Junior",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "07:15",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "07:30",
+    "staff": "Junior",
+    "task": "Check Mikva, Add towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "07:45",
+    "staff": "Junior",
+    "task": "Fill up water bottles 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "07:50",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:00",
+    "staff": "Junior",
+    "task": "Fill up Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:00",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:00",
+    "staff": "Franz",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:15",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:15",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 20 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:15",
+    "staff": "Franz",
+    "task": "Clean 20 downstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:30",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:30",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:30",
+    "staff": "Franz",
+    "task": "Mikva Chlorine test/Cleaning",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:45",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:45",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "08:45",
+    "staff": "Franz",
+    "task": "Clean Showers and wipe surfaces",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:00",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:00",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:00",
+    "staff": "Franz",
+    "task": "Mikva Bathroom clean restock Towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:15",
+    "staff": "Junior",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:15",
+    "staff": "Franz",
+    "task": "Clean Tent 5",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:30",
+    "staff": "Junior",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:30",
+    "staff": "Markenson",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:30",
+    "staff": "Franz",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:45",
+    "staff": "Junior",
+    "task": "Check/Restock Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:45",
+    "staff": "Markenson",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "09:45",
+    "staff": "Franz",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:00",
+    "staff": "Markenson",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:00",
+    "staff": "Franz",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:00",
+    "staff": "Geovany",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:15",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:15",
+    "staff": "Markenson",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:15",
+    "staff": "Franz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:15",
+    "staff": "Geovany",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30",
+    "staff": "Franz",
+    "task": "Clean/Restock Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:30",
+    "staff": "Geovany",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:45",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:45",
+    "staff": "Franz",
+    "task": "Walk and Clean parking lot",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "10:45",
+    "staff": "Geovany",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:00",
+    "staff": "Junior",
+    "task": "Take Inventory",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:00",
+    "staff": "Markenson",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:00",
+    "staff": "Franz",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:00",
+    "staff": "Geovany",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:15",
+    "staff": "Junior",
+    "task": "Update Lists",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:15",
+    "staff": "Franz",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:15",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:30",
+    "staff": "Junior",
+    "task": "Update Purchasing Requests",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:30",
+    "staff": "Markenson",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:30",
+    "staff": "Franz",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:30",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:45",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:45",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:45",
+    "staff": "Franz",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "11:45",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:00",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:00",
+    "staff": "Markenson",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:00",
+    "staff": "Franz",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:00",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:30",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:30",
+    "staff": "Franz",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:30",
+    "staff": "Geovany",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:45",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:45",
+    "staff": "Markenson",
+    "task": "Wipe down tables in tents",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:45",
+    "staff": "Franz",
+    "task": "Clean/Restock Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "12:45",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:00",
+    "staff": "Franz",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:15",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:15",
+    "staff": "Franz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:15",
+    "staff": "Geovany",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:30",
+    "staff": "Junior",
+    "task": "Clean up Advertisement boards",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:30",
+    "staff": "Franz",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:30",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:45",
+    "staff": "Junior",
+    "task": "Deliver Mail/Packages",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:45",
+    "staff": "Franz",
+    "task": "Mikva Chlorine test/Cleaning",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "13:45",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:00",
+    "staff": "Junior",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:00",
+    "staff": "Franz",
+    "task": "Clean Showers and wipe surfaces",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:00",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 4",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:15",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:15",
+    "staff": "Markenson",
+    "task": "Restock coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:15",
+    "staff": "Franz",
+    "task": "Mikva Bathroom clean restock",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:30",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:30",
+    "staff": "Franz",
+    "task": "Fill towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:45",
+    "staff": "Junior",
+    "task": "Check on soups",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:45",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:45",
+    "staff": "Franz",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "14:45",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:00",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:00",
+    "staff": "Franz",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:15",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:15",
+    "staff": "Franz",
+    "task": "Clean Tent 5",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:30",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:30",
+    "staff": "Franz",
+    "task": "Clean bathrooms 18 Up/down",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:30",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:45",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "15:45",
+    "staff": "Franz",
+    "task": "Clean bathrooms 20 Up/down",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "16:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "16:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "16:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "16:30",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "16:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "17:00",
+    "staff": "Darwin",
+    "task": "Clean 6 Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "17:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "18:00",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "18:15",
+    "staff": "Darwin",
+    "task": "Clean Office",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "18:30",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "18:45",
+    "staff": "Darwin",
+    "task": "Clean out fridges.",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "19:00",
+    "staff": "Darwin",
+    "task": "Have someone put up new soups if needed",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "19:15",
+    "staff": "Darwin",
+    "task": "Clean kitchen,Wash all pots and utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "20:00",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "20:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "20:30",
+    "staff": "Darwin",
+    "task": "Clean 18 Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "21:00",
+    "staff": "Darwin",
+    "task": "Clean Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "21:30",
+    "staff": "Darwin",
+    "task": "Check/Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "22:00",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "22:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "22:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "23:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "23:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "00:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "00:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "00:45",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "01:00",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "01:30",
+    "staff": "Darwin",
+    "task": "Reclean Kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "01:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "02:00",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Tuesday",
+    "time": "02:15",
+    "staff": "Darwin",
+    "task": "Clean Parking lot and walkways",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "02:30",
+    "staff": "Darwin",
+    "task": "Clean 4 Main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Tuesday",
+    "time": "02:45",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "05:00",
+    "staff": "Junior",
+    "task": "Set up Soup",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "05:15",
+    "staff": "Junior",
+    "task": "Make Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "05:30",
+    "staff": "Junior",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "05:45",
+    "staff": "Junior",
+    "task": "Brew Coffee/Restock Cookies",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "06:00",
+    "staff": "Junior",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "06:15",
+    "staff": "Junior",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "06:30",
+    "staff": "Junior",
+    "task": "Clean 18 upstairs Offices",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "06:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "07:00",
+    "staff": "Junior",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "07:15",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "07:30",
+    "staff": "Junior",
+    "task": "Check Mikva, Add towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "07:45",
+    "staff": "Junior",
+    "task": "Fill up water bottles 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "07:50",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "07:50",
+    "staff": "Sidne",
+    "task": "Check Mikva, Chlorine test",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:00",
+    "staff": "Junior",
+    "task": "Fill up Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:00",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:00",
+    "staff": "Sidne",
+    "task": "Cleaning",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:15",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:15",
+    "staff": "Sidne",
+    "task": "Fill towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:30",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:30",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:30",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Dwn",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:45",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "08:45",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:00",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:00",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:00",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:15",
+    "staff": "Junior",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:15",
+    "staff": "Sidne",
+    "task": "Clean 20 Downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:30",
+    "staff": "Junior",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:30",
+    "staff": "Markenson",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:30",
+    "staff": "Sidne",
+    "task": "Check and Clean tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:45",
+    "staff": "Junior",
+    "task": "Check/Restock Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:45",
+    "staff": "Markenson",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "09:45",
+    "staff": "Sidne",
+    "task": "Tent 4/ Tent 5",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:00",
+    "staff": "Markenson",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:00",
+    "staff": "Sidne",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:00",
+    "staff": "Geovany",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:15",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:15",
+    "staff": "Markenson",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:15",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:15",
+    "staff": "Geovany",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30",
+    "staff": "Sidne",
+    "task": "Clean outside 20/Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:30",
+    "staff": "Geovany",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:45",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:45",
+    "staff": "Sidne",
+    "task": "Clean outside Tent 3/4",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "10:45",
+    "staff": "Geovany",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:00",
+    "staff": "Junior",
+    "task": "Take Inventory",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:00",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:00",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:00",
+    "staff": "Geovany",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:15",
+    "staff": "Junior",
+    "task": "Update Lists",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:15",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:15",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:30",
+    "staff": "Junior",
+    "task": "Update Purchasing Requests",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:30",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:30",
+    "staff": "Sidne",
+    "task": "Clean 20 downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:30",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Down",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:45",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:45",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:45",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "11:45",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:00",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:00",
+    "staff": "Markenson",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:00",
+    "staff": "Sidne",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:00",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:30",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:30",
+    "staff": "Sidne",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:30",
+    "staff": "Geovany",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:45",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:45",
+    "staff": "Markenson",
+    "task": "Wipe down tables in tents",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:45",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "12:45",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:00",
+    "staff": "Sidne",
+    "task": "Deep clean mikvah",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:15",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:15",
+    "staff": "Sidne",
+    "task": "Wash Spray surfaces",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:15",
+    "staff": "Geovany",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:30",
+    "staff": "Junior",
+    "task": "Clean up Advertisement boards",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:30",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:30",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:45",
+    "staff": "Junior",
+    "task": "Deliver Mail/Packages",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:45",
+    "staff": "Sidne",
+    "task": "Clean Tents 3,4,5",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:45",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:50",
+    "staff": "Junior",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "13:50",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 4",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:00",
+    "staff": "Markenson",
+    "task": "Restock coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:30",
+    "staff": "Junior",
+    "task": "Check on soups",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:30",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:30",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:45",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "14:45",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "15:00",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "15:15",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "15:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "15:30",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "16:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "16:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "16:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "16:30",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "16:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "17:00",
+    "staff": "Darwin",
+    "task": "Clean 6 Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "17:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "18:00",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "18:15",
+    "staff": "Darwin",
+    "task": "Clean Office",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "18:30",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "18:45",
+    "staff": "Darwin",
+    "task": "Clean out fridges.",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "19:00",
+    "staff": "Darwin",
+    "task": "Have someone put up new soups if needed",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "19:15",
+    "staff": "Darwin",
+    "task": "Clean kitchen,Wash all pots and utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "20:00",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "20:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "20:30",
+    "staff": "Darwin",
+    "task": "Clean 18 Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "21:00",
+    "staff": "Darwin",
+    "task": "Clean Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "21:30",
+    "staff": "Darwin",
+    "task": "Check/Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "22:00",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "22:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "22:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "23:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "23:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "00:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "00:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "00:45",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "01:00",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "01:30",
+    "staff": "Darwin",
+    "task": "Reclean Kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "01:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "02:00",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Wednesday",
+    "time": "02:15",
+    "staff": "Darwin",
+    "task": "Clean Parking lot and walkways",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "02:30",
+    "staff": "Darwin",
+    "task": "Clean 4 Main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Wednesday",
+    "time": "02:45",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "05:00",
+    "staff": "Junior",
+    "task": "Set up Soup",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "05:15",
+    "staff": "Junior",
+    "task": "Make Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "05:30",
+    "staff": "Junior",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "05:45",
+    "staff": "Junior",
+    "task": "Brew Coffee/Restock Cookies",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "06:00",
+    "staff": "Junior",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "06:15",
+    "staff": "Junior",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "06:30",
+    "staff": "Junior",
+    "task": "Clean 18 upstairs Offices",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "06:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "07:00",
+    "staff": "Junior",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "07:15",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "07:30",
+    "staff": "Junior",
+    "task": "Check Mikva, Add towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "07:45",
+    "staff": "Junior",
+    "task": "Fill up water bottles 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "07:50",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "07:50",
+    "staff": "Sidne",
+    "task": "Check Mikva, Chlorine test",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "08:00",
+    "staff": "Junior",
+    "task": "Fill up Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "08:00",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "08:00",
+    "staff": "Sidne",
+    "task": "Cleaning",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "08:15",
+    "staff": "Junior",
+    "task": "Prep Cholent",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "08:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "08:15",
+    "staff": "Sidne",
+    "task": "Fill towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "08:30",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "08:30",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "08:30",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Dwn",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "08:45",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "08:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "08:45",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:00",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:00",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "09:00",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:15",
+    "staff": "Junior",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:15",
+    "staff": "Sidne",
+    "task": "Clean 20 Downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:30",
+    "staff": "Junior",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:30",
+    "staff": "Markenson",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:30",
+    "staff": "Sidne",
+    "task": "Check and Clean tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "09:45",
+    "staff": "Junior",
+    "task": "Check/Restock Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "09:45",
+    "staff": "Markenson",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "09:45",
+    "staff": "Sidne",
+    "task": "Tent 4/ Tent 5",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "staff": "Markenson",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "staff": "Sidne",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "staff": "Geovany",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:15",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:15",
+    "staff": "Markenson",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:15",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:15",
+    "staff": "Geovany",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30",
+    "staff": "Sidne",
+    "task": "Clean outside 20/Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "10:30",
+    "staff": "Geovany",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:45",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "10:45",
+    "staff": "Sidne",
+    "task": "Clean outside Tent 3/4",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "10:45",
+    "staff": "Geovany",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:00",
+    "staff": "Junior",
+    "task": "Take Inventory",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "11:00",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:00",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:00",
+    "staff": "Geovany",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:15",
+    "staff": "Junior",
+    "task": "Update Lists",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "11:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:15",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "11:15",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:30",
+    "staff": "Junior",
+    "task": "Update Purchasing Requests",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "11:30",
+    "staff": "Markenson",
+    "task": "Service coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:30",
+    "staff": "Sidne",
+    "task": "Clean 20 downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:30",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Down",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "11:45",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:45",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "11:45",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "11:45",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:00",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "12:00",
+    "staff": "Markenson",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:00",
+    "staff": "Sidne",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:00",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:30",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:30",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:30",
+    "staff": "Sidne",
+    "task": "Fill Water Bottles 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:30",
+    "staff": "Geovany",
+    "task": "Clean outside 18/Tent1",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:45",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:45",
+    "staff": "Markenson",
+    "task": "Wipe down tables in tents",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "12:45",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "12:45",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:00",
+    "staff": "Sidne",
+    "task": "Deep clean mikvah",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "13:15",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:15",
+    "staff": "Sidne",
+    "task": "Wash Spray surfaces",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "13:15",
+    "staff": "Geovany",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:30",
+    "staff": "Junior",
+    "task": "Clean up Advertisement boards",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "13:30",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:30",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:45",
+    "staff": "Junior",
+    "task": "Deliver Mail/Packages",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "13:45",
+    "staff": "Sidne",
+    "task": "Clean Tents 3,4,5",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "13:45",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:50",
+    "staff": "Junior",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "13:50",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 4",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "14:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "14:00",
+    "staff": "Markenson",
+    "task": "Restock coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "14:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "14:30",
+    "staff": "Junior",
+    "task": "Check on soups",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "14:30",
+    "staff": "Markenson",
+    "task": "Fill up water bottles 20",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "14:30",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "14:45",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "14:45",
+    "staff": "Markenson",
+    "task": "Service kitchen",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "15:00",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "15:15",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "15:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "15:30",
+    "staff": "Junior",
+    "task": "Report with issues/orders",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "16:00",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "16:15",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "16:15",
+    "staff": "Geovany",
+    "task": "Vaccum Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "16:30",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "16:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "17:00",
+    "staff": "Darwin",
+    "task": "Clean 6 Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "17:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "18:00",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "18:15",
+    "staff": "Darwin",
+    "task": "Clean Office",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "18:30",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "18:45",
+    "staff": "Darwin",
+    "task": "Clean out fridges.",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "19:00",
+    "staff": "Darwin",
+    "task": "Have someone put up new soups if needed",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "19:15",
+    "staff": "Darwin",
+    "task": "Clean kitchen,Wash all pots and utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "20:00",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "20:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "20:30",
+    "staff": "Darwin",
+    "task": "Clean 18 Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "21:00",
+    "staff": "Darwin",
+    "task": "Clean Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "21:30",
+    "staff": "Darwin",
+    "task": "Check/Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "22:00",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "22:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "22:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Bathrooms",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "23:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "23:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "00:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "00:30",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "00:45",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "01:00",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "01:30",
+    "staff": "Darwin",
+    "task": "Reclean Kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "01:45",
+    "staff": "Darwin",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "02:00",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Thursday",
+    "time": "02:15",
+    "staff": "Darwin",
+    "task": "Clean Parking lot and walkways",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "02:30",
+    "staff": "Darwin",
+    "task": "Clean 4 Main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Thursday",
+    "time": "02:45",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "05:00",
+    "staff": "Junior",
+    "task": "Set up Soup",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "05:15",
+    "staff": "Junior",
+    "task": "Make Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "05:30",
+    "staff": "Junior",
+    "task": "Service coffee stations",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "05:45",
+    "staff": "Junior",
+    "task": "Brew Coffee/Restock Cookies",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "06:00",
+    "staff": "Junior",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "06:15",
+    "staff": "Junior",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "06:30",
+    "staff": "Junior",
+    "task": "Clean 18 upstairs Offices",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "06:45",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "07:00",
+    "staff": "Junior",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "07:15",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "07:30",
+    "staff": "Junior",
+    "task": "Check Mikva, Add towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "07:45",
+    "staff": "Junior",
+    "task": "Fill up water bottles 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "07:50",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "07:50",
+    "staff": "Sidne",
+    "task": "Check Mikva, Chlorine test",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "08:00",
+    "staff": "Junior",
+    "task": "Fill up Farina",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "08:00",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:00",
+    "staff": "Sidne",
+    "task": "Cleaning",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "08:00",
+    "staff": "Franz",
+    "task": "Fill Water Bottles 20-18",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:15",
+    "staff": "Junior",
+    "task": "Prep Cholent",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "08:15",
+    "staff": "Markenson",
+    "task": "Clean 18 main upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:15",
+    "staff": "Sidne",
+    "task": "Fill towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "08:15",
+    "staff": "Franz",
+    "task": "Fill Water Bottles 20-18",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:30",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:30",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:30",
+    "staff": "Sidne",
+    "task": "Fill Water Bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:30",
+    "staff": "Franz",
+    "task": "Clean outside 20/Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "08:45",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:45",
+    "staff": "Markenson",
+    "task": "Clean 18 main downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:45",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "08:45",
+    "staff": "Franz",
+    "task": "Clean outside Tent 3/4",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "09:00",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:00",
+    "staff": "Markenson",
+    "task": "18 Up Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:00",
+    "staff": "Sidne",
+    "task": "Clean 20 downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:00",
+    "staff": "Franz",
+    "task": "18 Up Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:00",
+    "staff": "Geovany",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:15",
+    "staff": "Junior",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:15",
+    "staff": "Markenson",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:15",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:15",
+    "staff": "Franz",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:15",
+    "staff": "Geovany",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:30",
+    "staff": "Junior",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:30",
+    "staff": "Markenson",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:30",
+    "staff": "Sidne",
+    "task": "Check and Clean tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "09:30",
+    "staff": "Franz",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:30",
+    "staff": "Geovany",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:45",
+    "staff": "Junior",
+    "task": "Fill Water Bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:45",
+    "staff": "Markenson",
+    "task": "Spray and Clean Windows",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:45",
+    "staff": "Sidne",
+    "task": "Tent 4/ Tent 5",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "09:45",
+    "staff": "Franz",
+    "task": "Spray and Clean Windows",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "09:45",
+    "staff": "Geovany",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "staff": "Junior",
+    "task": "Fill up Soup",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Up",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "staff": "Sidne",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "staff": "Franz",
+    "task": "Clean bathrooms 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "staff": "Geovany",
+    "task": "Clean tent 5",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:15",
+    "staff": "Junior",
+    "task": "Food Prep",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:15",
+    "staff": "Markenson",
+    "task": "Clean bathrooms 18 Down",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:15",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:15",
+    "staff": "Franz",
+    "task": "Restock Paper towels",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "10:15",
+    "staff": "Geovany",
+    "task": "Clean bathrooms 20 Up",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "10:30",
+    "staff": "Junior",
+    "task": "Make Pasta",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:30",
+    "staff": "Markenson",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:30",
+    "staff": "Sidne",
+    "task": "Clean parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:30",
+    "staff": "Franz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:30",
+    "staff": "Geovany",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:45",
+    "staff": "Junior",
+    "task": "Put away Deliveries",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:45",
+    "staff": "Markenson",
+    "task": "Restock",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:45",
+    "staff": "Sidne",
+    "task": "Clean parking lot",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:45",
+    "staff": "Franz",
+    "task": "Restock",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "10:45",
+    "staff": "Geovany",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:00",
+    "staff": "Junior",
+    "task": "Take Inventory",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "11:00",
+    "staff": "Markenson",
+    "task": "18 Down Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:00",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:00",
+    "staff": "Franz",
+    "task": "18 Down Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:00",
+    "staff": "Geovany",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:15",
+    "staff": "Junior",
+    "task": "Update Lists",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "11:15",
+    "staff": "Markenson",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:15",
+    "staff": "Sidne",
+    "task": "Clean bathrooms 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:15",
+    "staff": "Franz",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:15",
+    "staff": "Geovany",
+    "task": "Sweep and Mop 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:30",
+    "staff": "Junior",
+    "task": "Update Purchasing Requests",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "11:30",
+    "staff": "Markenson",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:30",
+    "staff": "Sidne",
+    "task": "Clean 20 downstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:30",
+    "staff": "Franz",
+    "task": "Spray and Clean Shelves",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:30",
+    "staff": "Geovany",
+    "task": "Sweep and Mop 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:45",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:45",
+    "staff": "Markenson",
+    "task": "Spray and Clean Windows",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:45",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:45",
+    "staff": "Franz",
+    "task": "Spray and Clean Windows",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "11:45",
+    "staff": "Geovany",
+    "task": "20 Upstairs Tablecloths",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:00",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:00",
+    "staff": "Markenson",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:00",
+    "staff": "Sidne",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:00",
+    "staff": "Franz",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:00",
+    "staff": "Geovany",
+    "task": "20 Upstairs Tablecloths",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:30",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:30",
+    "staff": "Markenson",
+    "task": "Tablecloths in 18 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:30",
+    "staff": "Sidne",
+    "task": "Fill Water Bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:30",
+    "staff": "Franz",
+    "task": "Tablecloths in 18 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:30",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:45",
+    "staff": "Junior",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:45",
+    "staff": "Markenson",
+    "task": "Vacuum 18 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:45",
+    "staff": "Sidne",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:45",
+    "staff": "Franz",
+    "task": "Vacuum 18 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "12:45",
+    "staff": "Geovany",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:00",
+    "staff": "Junior",
+    "task": "Clean Kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:00",
+    "staff": "Markenson",
+    "task": "Vacuum 18 Offices",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:00",
+    "staff": "Sidne",
+    "task": "Deep clean mikvah",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:00",
+    "staff": "Franz",
+    "task": "Vacuum 18 Offices",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:00",
+    "staff": "Geovany",
+    "task": "Clean outside All areas",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:15",
+    "staff": "Junior",
+    "task": "Put away pots/utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:15",
+    "staff": "Markenson",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:15",
+    "staff": "Sidne",
+    "task": "Wash Spray surfaces",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:15",
+    "staff": "Franz",
+    "task": "Service coffee station",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:15",
+    "staff": "Geovany",
+    "task": "Clean outside Walkways",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:30",
+    "staff": "Junior",
+    "task": "Clean Fridges",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:30",
+    "staff": "Markenson",
+    "task": "Clean Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:30",
+    "staff": "Sidne",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:30",
+    "staff": "Franz",
+    "task": "Clean Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:30",
+    "staff": "Geovany",
+    "task": "Clean outside Parking lot",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:45",
+    "staff": "Junior",
+    "task": "Clean up Advertisement boards",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "13:45",
+    "staff": "Markenson",
+    "task": "18 Main Sweeping",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:45",
+    "staff": "Sidne",
+    "task": "Clean Tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "13:45",
+    "staff": "Franz",
+    "task": "18 Main Sweeping",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:00",
+    "staff": "Junior",
+    "task": "Put away Deliveries/Kugel in warmer",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "14:00",
+    "staff": "Markenson",
+    "task": "18 Main Sweeping",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:00",
+    "staff": "Sidne",
+    "task": "Clean Tents 4,5",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "14:00",
+    "staff": "Franz",
+    "task": "18 Main Sweeping",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:15",
+    "staff": "Junior",
+    "task": "Check Mikva",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:15",
+    "staff": "Markenson",
+    "task": "Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:15",
+    "staff": "Sidne",
+    "task": "Set Tent 2 For Shabbos",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:15",
+    "staff": "Franz",
+    "task": "Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:30",
+    "staff": "Junior",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:30",
+    "staff": "Markenson",
+    "task": "Tablecloths in 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:30",
+    "staff": "Sidne",
+    "task": "Set Tent 2 For Shabbos",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:30",
+    "staff": "Franz",
+    "task": "Tablecloths in 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:45",
+    "staff": "Junior",
+    "task": "Clean tent 1",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:45",
+    "staff": "Markenson",
+    "task": "Tablecloths in 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:45",
+    "staff": "Sidne",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "14:45",
+    "staff": "Franz",
+    "task": "Tablecloths in 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:00",
+    "staff": "Junior",
+    "task": "Clean tent 2",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:00",
+    "staff": "Markenson",
+    "task": "Good night",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:00",
+    "staff": "Sidne",
+    "task": "Good night",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:00",
+    "staff": "Franz",
+    "task": "Fill Water Bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:15",
+    "staff": "Junior",
+    "task": "Clean tent 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:15",
+    "staff": "Franz",
+    "task": "Clean, Add towels",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:30",
+    "staff": "Junior",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:30",
+    "staff": "Franz",
+    "task": "Deep clean mikvah",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:45",
+    "staff": "Junior",
+    "task": "Clean tent 5",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "15:45",
+    "staff": "Franz",
+    "task": "Wash Spray surfaces",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "16:00",
+    "staff": "Junior",
+    "task": "Clean 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "16:00",
+    "staff": "Franz",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "16:15",
+    "staff": "Junior",
+    "task": "Clean bathrooms 18/20",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "16:15",
+    "staff": "Franz",
+    "task": "Fill Soaps",
+    "twice_daily": false
+  },
+  {
+    "day": "Friday",
+    "time": "16:30",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "16:30",
+    "staff": "Franz",
+    "task": "Good night",
+    "twice_daily": true
+  },
+  {
+    "day": "Friday",
+    "time": "16:45",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "05:00",
+    "staff": "Junior",
+    "task": "Check on all locations that all is in order",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "05:15",
+    "staff": "Junior",
+    "task": "Prepare Kiddush 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "05:30",
+    "staff": "Junior",
+    "task": "Prepare Kiddush 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "05:45",
+    "staff": "Junior",
+    "task": "Set up Kiddush 1 in 18 main",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "06:00",
+    "staff": "Junior",
+    "task": "Set up Kiddush 1 in 18 main",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "06:15",
+    "staff": "Junior",
+    "task": "Kitchen Food Prep",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "06:30",
+    "staff": "Junior",
+    "task": "Serve kiddush 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "07:30",
+    "staff": "Junior",
+    "task": "Kitchen Food Prep",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "08:00",
+    "staff": "Sidne",
+    "task": "Clean tent 2 from kiddush 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "08:00",
+    "staff": "Franz",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "08:15",
+    "staff": "Junior",
+    "task": "Check the mikvah door",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "08:15",
+    "staff": "Franz",
+    "task": "Clean bathrooms of  18",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "08:30",
+    "staff": "Junior",
+    "task": "Breakfast",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "08:30",
+    "staff": "Sidne",
+    "task": "Clean bathrooms of 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "08:30",
+    "staff": "Franz",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "08:45",
+    "staff": "Sidne",
+    "task": "Prepare Kiddush",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "08:45",
+    "staff": "Franz",
+    "task": "Clean bathrooms of 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "09:00",
+    "staff": "Franz",
+    "task": "Clean parking across the street",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "09:15",
+    "staff": "Junior",
+    "task": "Serve Kiddush 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "09:45",
+    "staff": "Sidne",
+    "task": "Clean kiddush 2 in 18",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "10:00",
+    "staff": "Junior",
+    "task": "Walk around check whole property",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "10:15",
+    "staff": "Junior",
+    "task": "Report with issues/ordering",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "10:30",
+    "staff": "Sidne",
+    "task": "Setup Kiddush 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "11:00",
+    "staff": "Junior",
+    "task": "Check the mikvah door",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "11:15",
+    "staff": "Junior",
+    "task": "Serve kiddush 3 Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "11:15",
+    "staff": "Sidne",
+    "task": "Serve kiddush  3",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "11:30",
+    "staff": "Franz",
+    "task": "Clean 20 Upstairs",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "11:45",
+    "staff": "Sidne",
+    "task": "Start letting water out in mikvah, do backwash",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "11:45",
+    "staff": "Franz",
+    "task": "Clean bathrooms of 20",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "12:00",
+    "staff": "Junior",
+    "task": "Serve Kiddush 4 18 Main",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "12:00",
+    "staff": "Sidne",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "12:00",
+    "staff": "Franz",
+    "task": "Lunch break",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "12:30",
+    "staff": "Junior",
+    "task": "Clean kitchen",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "12:30",
+    "staff": "Sidne",
+    "task": "Deep Clean mikvah",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "12:30",
+    "staff": "Franz",
+    "task": "Clean tent 2 from kiddush 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "12:45",
+    "staff": "Franz",
+    "task": "Reset Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "13:00",
+    "staff": "Franz",
+    "task": "Spray Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "13:15",
+    "staff": "Franz",
+    "task": "Vaccum",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "13:30",
+    "staff": "Franz",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "13:45",
+    "staff": "Franz",
+    "task": "Put away food and drinks",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "14:00",
+    "staff": "Franz",
+    "task": "Clean tent 2 from kiddush 3",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "14:15",
+    "staff": "Franz",
+    "task": "Reset Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "14:30",
+    "staff": "Sidne",
+    "task": "Clean tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "14:30",
+    "staff": "Franz",
+    "task": "Spray Tables",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "14:45",
+    "staff": "Franz",
+    "task": "Vaccum",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "15:00",
+    "staff": "Sidne",
+    "task": "Set up shalashidis",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "15:00",
+    "staff": "Franz",
+    "task": "Empty Garbages",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "15:15",
+    "staff": "Sidne",
+    "task": "Supper Break",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "15:15",
+    "staff": "Franz",
+    "task": "Put away food and drinks",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "15:30",
+    "staff": "Franz",
+    "task": "Service Coffee",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "15:45",
+    "staff": "Franz",
+    "task": "Clean bathrooms of 18",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "16:15",
+    "staff": "Sidne",
+    "task": "Clean up shalashides",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "16:30",
+    "staff": "Sidne",
+    "task": "Clean up 18 main and Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "17:00",
+    "staff": "Sidne",
+    "task": "Take off tablecloths in tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "17:15",
+    "staff": "Sidne",
+    "task": "Clean Rabbi Coren's office",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "17:30",
+    "staff": "Sidne",
+    "task": "Clean Conferance room",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "18:00",
+    "staff": "Sidne",
+    "task": "Close water in mikvah",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "18:15",
+    "staff": "Sidne",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "18:45",
+    "staff": "Sidne",
+    "task": "Clean and set up tent 1 for Avos Ubanim",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "20:00",
+    "staff": "Sidne",
+    "task": "Leave unless the Avos Ubanim needs cleaning.",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "20:00",
+    "staff": "Darwin",
+    "task": "Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "21:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "21:45",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "22:00",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "22:30",
+    "staff": "Darwin",
+    "task": "Clean kitchen,Wash all pots and utensils",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "23:00",
+    "staff": "Darwin",
+    "task": "Clean 18 Main and Upstairs",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "23:45",
+    "staff": "Darwin",
+    "task": "Clean Mikva",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "00:00",
+    "staff": "Darwin",
+    "task": "Clean Tent 4",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "00:15",
+    "staff": "Darwin",
+    "task": "Check/Clean 4 main Bathrooms",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "00:30",
+    "staff": "Darwin",
+    "task": "Clean Tent 3",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "00:45",
+    "staff": "Darwin",
+    "task": "Clean Tent 2",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "01:15",
+    "staff": "Darwin",
+    "task": "Clean Tent 1",
+    "twice_daily": false
+  },
+  {
+    "day": "Saturday",
+    "time": "01:45",
+    "staff": "Darwin",
+    "task": "Clean 18 Main",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "02:15",
+    "staff": "Darwin",
+    "task": "Restock all paper towels and tissues",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "02:30",
+    "staff": "Darwin",
+    "task": "Restock Water bottles",
+    "twice_daily": true
+  },
+  {
+    "day": "Saturday",
+    "time": "02:45",
+    "staff": "Darwin",
+    "task": "Clean and restock 3 Coffee stations",
+    "twice_daily": true
+  }
+]

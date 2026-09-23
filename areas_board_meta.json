@@ -1,0 +1,26 @@
+{
+  "board_id": "18432254291",
+  "columns": {
+    "Status": "color_mm7e2zbk",
+    "Reset Frequency": "color_mm7evb0t",
+    "Notify on Complete": "multiple_person_mm7ey4yz",
+    "Facility Manager (escalation)": "multiple_person_mm7eztx6",
+    "Checklist Details": "long_text_mm7ees76",
+    "QR Code": "file_mm7ed4d2"
+  },
+  "items": {
+    "Bathrooms": "13106400031",
+    "Tents": "13106337113",
+    "20 Upstairs": "13106341598",
+    "18 Main Synagogue": "13106407257",
+    "Coffee Station of 18 Main": "13106341521",
+    "Coffee Station of 18 Upstairs": "13106388326",
+    "Kitchen Food Prep": "13106388327",
+    "Kitchen Cleaning": "13106375063",
+    "18 Upstairs": "13106369761",
+    "Rabbi Coren's Office": "13106351745",
+    "Mikvah": "13106357483",
+    "Deep Cleaning of the Mikvah": "13106369067",
+    "Property": "13106388793"
+  }
+}
