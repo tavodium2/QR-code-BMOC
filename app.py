@@ -1,4 +1,5 @@
 import re
+import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -32,18 +33,28 @@ def slugify(area):
     return re.sub(r"[^a-z0-9]+", "-", area.lower()).strip("-")
 
 
-AREA_SLUGS = {slugify(a): a for a in source.distinct_areas()}
+_area_cache = {"at": 0.0, "map": {}}
+AREA_CACHE_SECONDS = 60
+
+
+def area_slugs():
+    """slug -> area name, read from Monday's Area column and cached briefly, so a
+    new area added on the board works without redeploying the app."""
+    if time.time() - _area_cache["at"] > AREA_CACHE_SECONDS or not _area_cache["map"]:
+        _area_cache["map"] = {slugify(a): a for a in source.distinct_areas()}
+        _area_cache["at"] = time.time()
+    return _area_cache["map"]
 
 
 @app.route("/")
 def index():
     # dev-only index listing all area scan links, so this can be tested without printed QR codes yet
-    return render_template("index.html", areas=sorted(AREA_SLUGS.items(), key=lambda x: x[1]))
+    return render_template("index.html", areas=sorted(area_slugs().items(), key=lambda x: x[1]))
 
 
 @app.route("/scan/<area_slug>")
 def scan(area_slug):
-    area = AREA_SLUGS.get(area_slug)
+    area = area_slugs().get(area_slug)
     if not area:
         return render_template("error.html", message=f"Unknown area code: {area_slug}"), 404
     workers = source.distinct_workers()
@@ -55,7 +66,7 @@ def scan(area_slug):
 
 @app.route("/scan/<area_slug>/complete", methods=["POST"])
 def complete(area_slug):
-    area = AREA_SLUGS.get(area_slug)
+    area = area_slugs().get(area_slug)
     if not area:
         return render_template("error.html", message=f"Unknown area code: {area_slug}"), 404
 
@@ -89,7 +100,7 @@ def complete(area_slug):
 
 @app.route("/scan/<area_slug>/complete_specific", methods=["POST"])
 def complete_specific(area_slug):
-    area = AREA_SLUGS.get(area_slug)
+    area = area_slugs().get(area_slug)
     worker = request.form.get("worker")
     day = request.form.get("day")
     task_key = request.form.get("task_key")
